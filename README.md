@@ -1,5 +1,7 @@
-# cordova-plugin-sunmi-inner-printer
+# Update
 Fix error index on printBarCode function
+Tested with cordova-android@8.0.0 on Sunmi V2 Printer
+
 
 # cordova-plugin-sunmi-inner-printer
 Cordova/Ionic Plugin for Sunmi V1 Printer
