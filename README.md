@@ -1,5 +1,6 @@
 # Update
 解决了打印一维条码只有一条线的问题！
+
 Fix error index on printBarCode function
 
 Tested with cordova-android@8.0.0 on Sunmi V2 Printer
